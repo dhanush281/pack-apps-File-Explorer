@@ -1,6 +1,6 @@
 android_app_import {
-        name: "File Explorer",
-        apk: "File Explorer_v1.1.2.apk",
+        name: "FileExplorer",
+        apk: "FileExplorer_v1.1.2.apk",
         presigned: true,
         privileged: true,
         preprocessed: true,
